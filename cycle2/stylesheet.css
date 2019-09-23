@@ -1,0 +1,42 @@
+
+body {background-color:  white;}
+header {background-color:  black;}
+
+h1 {background-color: #b0c4de;
+    font-weight: bold;
+    color:  white;
+}
+
+footer {font: 1em }
+
+nav{
+    background-color: Red;
+    color: grey;
+
+}
+
+nav a:visited {color: White;
+    text-decoration: none;}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+a:visited {
+    color: blue;
+}
+footer{
+    background-color:  white;
+    font-weight: Bold;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+}
+.email {
+    color: red;
+}
